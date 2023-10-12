@@ -1,0 +1,18 @@
+{
+  "name": "music-bot",
+  "main": "index.js",
+  "author": "Mrezor",
+  "version": "1.0.0",
+  "repository": "",
+  "description": "Un bot template musique complet",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "discord-player": "^6.6.4",
+    "discord.js": "^14.13.0",
+    "ffmpeg-static": "^5.2.0",
+    "mediaplex": "^0.0.8",
+    "ytdl-core": "^4.11.5"
+  }
+}
